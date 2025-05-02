@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385584862148",
+    "project_id": "digicasa-4355a",
+    "storage_bucket": "digicasa-4355a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385584862148:android:a6d7345a0db2cba1fc4a91",
+        "android_client_info": {
+          "package_name": "com.cosmosac.digicasa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw0oOsgF9p-AFKjo-33VR1wMRmBPx1qgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
